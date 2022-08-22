@@ -1,4 +1,4 @@
-tz autotests
+# tz autotests
 
 `pytest /path/to/dir`
 
