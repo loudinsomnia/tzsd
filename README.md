@@ -1,3 +1,0 @@
-# tzsd
-tzsd
-tz autotests
